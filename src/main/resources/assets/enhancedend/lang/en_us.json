@@ -1,0 +1,17 @@
+{
+  "enchantment.enhancedend.voidness": "Voidness",
+  "item.enhancedend.void_helmet": "Void Helmet",
+  "item.enhancedend.void_leggings": "Void Leggings",
+  "item.enhancedend.void_chestplate": "Void Chestplate",
+  "item.enhancedend.void_boots": "Void Boots",
+  "item.enhancedend.void_ore": "Void Ore",
+  "item.enhancedend.void_sword": "Void Sword",
+  "item.enhancedend.void_pickaxe": "Void Pickaxe",
+  "item.enhancedend.void_axe": "Void Axe",
+  "item.enhancedend.void_shovel": "Void Shovel",
+  "item.enhancedend.void_hoe": "Void Hoe",
+  "item.enhancedend.corrupted_grass_block": "Corrupted Grass Block",
+  "item_group.enhancedend.enhanced_end_blocks": "Enhanced End Blocks",
+  "biome.enhancedend.poblated_main_island": "Main Island",
+  "item.enhancedend.void_artifact": "Void Artifact"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "enhancedend:block/void_ore",
+    "particle": "enhancedend:block/void_ore"
+  },
+  "render_type": "solid"
+}

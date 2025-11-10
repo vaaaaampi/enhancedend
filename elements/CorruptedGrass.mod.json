@@ -1,0 +1,13 @@
+{
+  "_fv": 79,
+  "_type": "endstone",
+  "definition": {
+    "block": {
+      "value": "CUSTOM:CorruptedGrassBlock"
+    },
+    "mixins": [
+      "ChorusFlowerBlockMixin",
+      "ChorusPlantBlockMixin"
+    ]
+  }
+}

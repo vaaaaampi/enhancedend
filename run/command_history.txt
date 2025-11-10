@@ -1,0 +1,50 @@
+/enchant Dev enhancedend:voidness
+/gamerule keepInventory
+/gamerule keepInventory true
+/summon minecraft:zombie
+/gamemode creative
+/summon minecraft:zombie
+/gamemode survival
+/summon minecraft:zombie
+/advancement revoke Dev everything
+/gamemode survival
+/give Dev enhancedend:void_boots
+/enchant Dev enhancedend:voidness
+/gamerule keepInventory
+/gamerule keepInventory true
+/summon minecraft:zombie
+/give Dev enhancedend:void_ore
+/give Dev minecraft:end_stone 64
+/give Dev minecraft:netherite_pickaxe
+/give Dev minecraft:netherite_pickaxe[minecraft:enchantments={efficiency,5}]
+/enchant Dev minecraft:efficiency 5
+/fill ~ ~ ~
+/fill -20 78 -89
+/fill -20 78 -89 ~ ~ ~ air replace minecraft:end_stone
+/fill ~-10 ~-10 ~-10 ~10 ~10 ~10 air replace enhancedend:void_ore
+/fill ~-100 ~-100 ~-100 ~100 ~100 ~100 air replace enhancedend:void_ore
+/fill ~-100 ~-50 ~-100 ~100 ~100 ~100 air replace enhancedend:void_ore
+/fill ~-50 ~-50 ~-50 ~50 ~50 ~50 air replace enhancedend:void_ore
+/fill ~-25 ~-25 ~-25 ~25 ~25 ~25 air replace enhancedend:void_ore
+/fill ~-10 ~-10 ~-10 ~10 ~10 ~10 air replace enhancedend:void_ore
+/tp ~1000 ~ ~1000
+/fill ~-10 ~-10 ~-10 ~10 ~10 ~10 air replace enhancedend:void_ore
+/give Dev enhancedend:corrupted_grass_block
+/fill ~-10 ~-10 ~-10 ~10 ~10 ~10 minecraft:pale_oak_planks replace minecraft:birch_planks
+/fill ~-10 ~-10 ~-10 ~10 ~10 ~10 air replace enhancedend:corrupted_grass_block
+/locate structure #c:hidden_from_displayers
+/kill @e[type=minecraft:ender_dragon]
+/fill ~-10 ~-10 ~-10 ~10 ~10 ~10 air replace enhancedend:void_ore
+/fill ~-10 ~-10 ~-20 ~10 ~0 ~10 air replace enhancedend:void_ore
+/give Dev enhancedend:void_axe
+/locate biome enhancedend:main_island
+/tp @s -214 96 -220
+/fill ~-10 ~-20 ~-10 ~10 ~ ~10
+/fill ~-10 ~-20 ~-10 ~10 ~ ~10 air replace enhancedend:void_ore
+/locate structure minecraft:end_city
+/locate biome enhancedend:poblated_main_island
+/locate biome minecraft:end_highlands
+/tp @s 713 74 769
+/fill ~-10 ~-20 ~-10 ~10 ~ ~10 air replace enhancedend:void_ore
+/gamemode survival
+/enchant Dev minecraft:efficiency 5

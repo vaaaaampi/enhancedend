@@ -1,0 +1,17 @@
+{
+  "enchantment.enhancedend.voidness": "Vacuidad",
+  "item.enhancedend.void_helmet": "Casco del Vacío",
+  "item.enhancedend.void_leggings": "Pantalones del Vacío",
+  "item.enhancedend.void_chestplate": "Pechera del Vacío",
+  "item.enhancedend.void_boots": "Botas del Vacío",
+  "item.enhancedend.void_ore": "Mena del Vacío",
+  "item.enhancedend.void_sword": "Espada del Vacío",
+  "item.enhancedend.void_pickaxe": "Pico del Vacío",
+  "item.enhancedend.void_axe": "Hacha del Vacío",
+  "item.enhancedend.void_shovel": "Pala del Vacío",
+  "item.enhancedend.void_hoe": "Azada del Vacío",
+  "item.enhancedend.corrupted_grass_block": "Césped corrupto",
+  "item_group.enhancedend.enhanced_end_blocks": "Enhanced End Blocks",
+  "biome.enhancedend.poblated_main_island": "Main Island",
+  "item.enhancedend.void_artifact": "Void Artifact"
+}

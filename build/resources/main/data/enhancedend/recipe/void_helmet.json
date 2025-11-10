@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:netherite_helmet",
+  "base": "enhancedend:void_artifact",
+  "addition": "enhancedend:void_artifact",
+  "result": {
+    "id": "enhancedend:void_helmet"
+  }
+}
